@@ -1,4 +1,4 @@
-
+#streamlit>=1.66.1
 import streamlit as st
 import textwrap
 
